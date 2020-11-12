@@ -1,0 +1,13 @@
+{
+  "name": "ninja-tailwind-css-tutorial",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Oscar Jin <kintininn@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "tailwindcss": "^1.9.6"
+  },
+  "scripts": {
+    "build": "tailwindcss build src/styles.css -o public/styles.css"
+  }
+}

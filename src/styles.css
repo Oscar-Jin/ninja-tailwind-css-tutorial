@@ -26,3 +26,26 @@
   @apply ml-2;
   @apply mt-2;
 }
+
+.btn {
+  @apply rounded-full;
+  @apply py-2;
+  @apply px-3;
+  @apply uppercase;
+  @apply text-xs;
+  @apply font-bold;
+  @apply cursor-pointer;
+  @apply tracking-wider;
+}
+
+/* .button {
+  @apply transition duration-200 bg-gray-200 px-3 py-1 rounded-md;
+}
+
+.button:hover {
+  @apply transition duration-200 bg-gray-300 shadow-sm;
+}
+
+.button:active {
+  @apply transition duration-100 bg-gray-300 shadow-inner;
+} */

@@ -10,7 +10,7 @@ Links are below:
 
 This project contains a *production ready*😂 "Food Ninja" recipe website.
 
-It allows users to discover and share favorite Ninja food recipes. 
+It allows users to discover and share their favorite Ninja food recipes. 
 
 Master the arts of Ninja, all starting from a healthy breakfast...🥷
 
@@ -22,7 +22,7 @@ yarn install
 
 ## Authors and acknowledgment
 
-Oscar Jin (Kinchan), Zhiren
+Oscar Jin (Kinchan), Zhiren Jin
 
 -- "so many names but all me"
 
